@@ -2,7 +2,7 @@
     "manifest_version": 3,
   
     "name": "Twitt Follow",
-    "description": "Follow users having followers less than 40!!",
+    "description": "This extension allows you to follow users having following less than 40 by the search of any #hashtag.",
     "version": "1.0",
   
     "action": {
